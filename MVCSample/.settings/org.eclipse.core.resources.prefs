@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/controller/ChangPasswordServlet.java=UTF-8
+encoding//src/controller/CheckLoginServlet.java=UTF-8
+encoding//src/controller/DetailUserServlet.java=UTF-8
+encoding//src/controller/IndexUserServlet.java=UTF-8
+encoding//src/controller/SuaUserServlet.java=UTF-8
+encoding//src/controller/ThemUserServlet.java=UTF-8
+encoding//src/controller/XoaUserServlet.java=UTF-8
